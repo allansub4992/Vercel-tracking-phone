@@ -1,0 +1,12 @@
+{
+  "name": "location-tracker-vercel",
+  "version": "1.0.0",
+  "description": "GPS Location Tracker for Vercel",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
